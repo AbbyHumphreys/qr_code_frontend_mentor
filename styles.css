@@ -19,6 +19,7 @@ img {
   border-radius: 10px;
   margin: auto;
   margin-bottom: 24px;
+  max-width: 288px;
 }
 
 .bold-text {
